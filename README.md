@@ -1,2 +1,2 @@
-# ssl-exists
-SSL existance on website
+Simple SSL script to check if domain uses SSL.
+Few different types of script with orwithout user input on REQUESTS lib.
